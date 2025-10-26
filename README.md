@@ -1,1 +1,7 @@
 
+#Create an .env file and add this
+
+DATABASE_URL=
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+GEMINI_API_KEY=
